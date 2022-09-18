@@ -1,5 +1,6 @@
 # FrontEnd for Gemix site
 In 2017 i made FrondEnd for my game server project. Backend for this site made my friend. So, game project closed and i didnt save a server part of the site.
+HTML, CSS, JavaScript. 
 
 Main page
 ![image](https://user-images.githubusercontent.com/90569114/190889182-358c0579-7499-4fd8-9c08-dcb0d9585586.png)
